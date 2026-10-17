@@ -1,0 +1,37 @@
+# Generated output
+output/
+reports/
+*.log
+
+# Data / directory exports
+exports/
+data/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Secrets
+.env
+.env.*
+secrets/
+credentials/
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Local configuration
+config.local.*
+settings.local.*
+
+# Tests output
+TestResults/
+coverage/
+
+# Editor
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
