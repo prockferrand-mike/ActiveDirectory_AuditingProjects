@@ -1,0 +1,16 @@
+DisplayName,Description,EmployeeID,Company,Office,Mobile,AccountType
+Alice Example,Standard employee account,100001,Example Corp,Site-A,555-010-1001,Employee
+Bob Example,Standard employee account,100002,Example Corp,Site-B,,Employee
+Charlie Contractor (C),Temporary contractor (C),C100003,Example Consulting,Site-A,555-010-1003,Contractor
+Dana Vendor (V),External vendor account (V),V100004,Example Supplier,Remote,555-010-1004,Vendor
+Erin Example,Standard employee account,100005,Example Corp,Site-C,N/A,Employee
+Frank Example,Standard employee account,,Example Corp,Site-A,555-010-1006,Employee
+Grace Example,Standard employee account,100007,,Site-B,555-010-1007,Employee
+Henry Example,Standard employee account,100008,Example Corp,,555-010-1008,Employee
+Iris Example,Standard employee account,100009,Example Corp,Site-A,0,Employee
+Jordan Example,Standard employee account,100010,Example Corp,Site-B,5550101010,Employee
+Kelly Example,Standard employee account,100011,Example Corp,Remote,+1 (555) 010-1011,Employee
+Morgan Example,Temporary external worker,C100012,Example Consulting,Site-C,555-010-1012,Contractor
+Taylor Example,Third-party support account,V100013,Example Supplier,Remote,555-010-1013,Vendor
+Casey Contractor (C),Contractor designation present (C),C100014,Example Consulting,Site-A,555-010-1014,
+Riley Vendor (V),Vendor designation present (V),V100015,Example Supplier,Remote,555-010-1015,
